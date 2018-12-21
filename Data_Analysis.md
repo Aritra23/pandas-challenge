@@ -1,0 +1,5 @@
+Major Observable Trends after the Data Analysis:
+
+1) The males comprise over 80% of the total players of this game, so unsurprisingly they are responsible for generating the maximum revenue over 75%. 
+2) The most number of players are in the age bracket of 20-24, and it is observed that even though they make up the largest Total Purchase Value among all other age groups, however they are ranked around middle of the group in terms of Average purchase price and average total purchase per person. This signifies they spend less than other age brackets on an overall analysis.
+3) "Oathbreaker, Last Hope of the Breaking Storm" turns out to be the most popular as well as the most profitable item among all, and its item price is lowest among all others in the top 5 bracket of popular and profitable items. 
